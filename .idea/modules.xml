@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lab_Works/1_lab/1_lab.iml" filepath="$PROJECT_DIR$/Lab_Works/1_lab/1_lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_Works/2_lab/2_lab.iml" filepath="$PROJECT_DIR$/Lab_Works/2_lab/2_lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons/1_lesson/Abstract_Classes/Abstract_Classes.iml" filepath="$PROJECT_DIR$/Lessons/1_lesson/Abstract_Classes/Abstract_Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons/1_lesson/Class_Object/Class_Object.iml" filepath="$PROJECT_DIR$/Lessons/1_lesson/Class_Object/Class_Object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons/1_lesson/Constructor_Overload/Constructor_Overload.iml" filepath="$PROJECT_DIR$/Lessons/1_lesson/Constructor_Overload/Constructor_Overload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons/1_lesson/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Lessons/1_lesson/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OOP_1.iml" filepath="$PROJECT_DIR$/.idea/OOP_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons/1_lesson/Packages/Packages.iml" filepath="$PROJECT_DIR$/Lessons/1_lesson/Packages/Packages.iml" />
+    </modules>
+  </component>
+</project>
