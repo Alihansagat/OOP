@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa23d32f-dd8b-49b2-8f01-6f2900e85ef1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Lessons.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_lesson/Java API/Java API.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_lesson/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_lesson/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_lesson/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_lesson/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_lesson/2_lesson.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_lesson/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_lesson/src/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_lesson/src/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_lesson/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_lesson/src/checkingAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab_practice/lab_practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab_practice/src/lab1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab_practice/src/lab1/dragonLaunch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/1_lab/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/1_lab/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/1_lab/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/1_lab/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/1_lab/1_lab.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/1_lab/src/1_task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/1_lab/src/2_task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/1_lab/src/3_task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/1_lab/src/4_task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/1_lab/src/5_task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/1_lab/src/6_task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/2_lab/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/2_lab/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/2_lab/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/2_lab/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/2_lab/2_lab.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/2_lab/src/1_task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/2_lab/src/2_task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/2_lab/src/3_task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/2_lab/src/StarTriangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/2_lab/src/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/2_lab/src/Time.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Alihansagat&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:Alihansagat/OOP.git&quot;,
+    &quot;accountId&quot;: &quot;d38fc353-c61b-4552-b856-29a2db0b71d2&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="3ASfYTcV2frLkOviTf10mL7cnmX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/alikhansagat/Desktop/Ali/OOP_1/Lessons&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa23d32f-dd8b-49b2-8f01-6f2900e85ef1" name="Changes" comment="" />
+      <created>1772590940755</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772590940755</updated>
+    </task>
+    <servers />
+  </component>
+</project>

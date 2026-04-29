@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b89b1264-9deb-4ef5-9c5f-46ed0ee53601" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lessons/.idea/Lessons.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lessons/1_lesson/Java API/Java API.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lessons/2_lesson/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lessons/2_lesson/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lessons/2_lesson/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lessons/2_lesson/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lessons/2_lesson/2_lesson.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lessons/2_lesson/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lessons/2_lesson/src/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lessons/2_lesson/src/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lessons/2_lesson/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lessons/2_lesson/src/checkingAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lessons/3_lesson/3_lesson.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lessons/3_lesson/src/CheckClonable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lessons/3_lesson/src/CheckingClone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lessons/3_lesson/src/Clonable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lessons/3_lesson/src/Serializable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/src/OOP_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab_practice/lab_practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab_practice/src/lab1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab_practice/src/lab1/dragonLaunch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/1_lab/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/1_lab/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/1_lab/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/1_lab/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/1_lab/1_lab.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/1_lab/src/1_task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/1_lab/src/2_task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/1_lab/src/3_task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/1_lab/src/4_task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/1_lab/src/5_task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/1_lab/src/6_task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/2_lab/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/2_lab/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/2_lab/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/2_lab/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/2_lab/2_lab.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/2_lab/src/1_task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/2_lab/src/2_task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/2_lab/src/3_task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/2_lab/src/StarTriangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/2_lab/src/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_Works/2_lab/src/Time.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Alihansagat&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:Alihansagat/OOP.git&quot;,
+    &quot;accountId&quot;: &quot;d38fc353-c61b-4552-b856-29a2db0b71d2&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="3D1em7WTZKBA4SUYmnzVPQKzIbw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/Users/alikhansagat/Desktop/Ali/OOP_1/Project_B/src/Main.java"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b89b1264-9deb-4ef5-9c5f-46ed0ee53601" name="Changes" comment="" />
+      <created>1777454159070</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1777454159070</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1_lesson/Abstract_Classes/Abstract_Classes.iml" filepath="$PROJECT_DIR$/1_lesson/Abstract_Classes/Abstract_Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_lesson/Class_Object/Class_Object.iml" filepath="$PROJECT_DIR$/1_lesson/Class_Object/Class_Object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_lesson/Constructor_Overload/Constructor_Overload.iml" filepath="$PROJECT_DIR$/1_lesson/Constructor_Overload/Constructor_Overload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_lesson/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/1_lesson/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_lesson/Java API/Java API.iml" filepath="$PROJECT_DIR$/1_lesson/Java API/Java API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lessons.iml" filepath="$PROJECT_DIR$/.idea/Lessons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_lesson/Packages/Packages.iml" filepath="$PROJECT_DIR$/1_lesson/Packages/Packages.iml" />
+    </modules>
+  </component>
+</project>
